@@ -6,5 +6,5 @@ class Math:
         return (PI*(r**2))
     
 def add(a, b):
-    return (a+b)
+    return a+b
 
